@@ -1,0 +1,17 @@
+Vad är detta för datatyp? x = 6
+1. Integer
+2. String
+3. Lista
+1
+
+Vilken färg har den högra delen av frankrikes flagga?
+1. Blå 
+2. Röd
+3. Vit
+2
+
+Vilket planet är närmast solen?
+1. Venus
+2. Mars
+3. Markurius
+3
